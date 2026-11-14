@@ -1,0 +1,31 @@
+services:
+  api:
+    build:
+      context: .
+      dockerfile: runtime/Dockerfile
+    command: python -m uvicorn service.api:app --host 0.0.0.0 --port 8000
+    ports:
+      - "127.0.0.1:18080:8000"
+    volumes:
+      - ./converted_figshare/brand2:/app/converted_figshare/brand2:ro
+      - ./reports:/app/reports:ro
+    read_only: true
+    tmpfs:
+      - /tmp
+    security_opt:
+      - no-new-privileges:true
+  frontend:
+    build:
+      context: .
+      dockerfile: frontend/Dockerfile
+    ports:
+      - "127.0.0.1:18501:8080"
+    depends_on:
+      - api
+    read_only: true
+    tmpfs:
+      - /tmp
+      - /var/cache/nginx
+      - /var/run
+    security_opt:
+      - no-new-privileges:true

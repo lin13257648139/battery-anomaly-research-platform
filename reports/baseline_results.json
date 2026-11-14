@@ -1,0 +1,72 @@
+{
+  "unit": "vehicle",
+  "folds": 5,
+  "vehicles": 100,
+  "positives": 9,
+  "split": "StratifiedKFold on vehicle ID; training uses normal vehicles only",
+  "aggregation": "mean of highest 5% snippet scores",
+  "metrics": {
+    "iforest_percentile": {
+      "oof_auroc": 0.8333333333333334,
+      "oof_average_precision": 0.2566430688652911,
+      "folds": [
+        {
+          "fold": 1,
+          "auroc": 0.8157894736842105,
+          "average_precision": 0.2
+        },
+        {
+          "fold": 2,
+          "auroc": 0.875,
+          "average_precision": 0.3666666666666667
+        },
+        {
+          "fold": 3,
+          "auroc": 0.8611111111111112,
+          "average_precision": 0.4
+        },
+        {
+          "fold": 4,
+          "auroc": 0.7222222222222222,
+          "average_precision": 0.26666666666666666
+        },
+        {
+          "fold": 5,
+          "auroc": 0.8472222222222222,
+          "average_precision": 0.3333333333333333
+        }
+      ]
+    },
+    "voltage_spread": {
+      "oof_auroc": 0.7362637362637362,
+      "oof_average_precision": 0.3370127512284375,
+      "folds": [
+        {
+          "fold": 1,
+          "auroc": 0.9473684210526316,
+          "average_precision": 0.5
+        },
+        {
+          "fold": 2,
+          "auroc": 0.8333333333333334,
+          "average_precision": 0.625
+        },
+        {
+          "fold": 3,
+          "auroc": 0.6111111111111112,
+          "average_precision": 0.23809523809523808
+        },
+        {
+          "fold": 4,
+          "auroc": 0.5833333333333333,
+          "average_precision": 0.3125
+        },
+        {
+          "fold": 5,
+          "auroc": 0.9444444444444444,
+          "average_precision": 0.75
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "task": "vehicle anomaly ranking",
+  "training": "normal vehicles only",
+  "inputs": [
+    "current_mean",
+    "current_std",
+    "current_min",
+    "current_max",
+    "current_delta",
+    "soc_mean",
+    "soc_std",
+    "soc_min",
+    "soc_max",
+    "soc_delta",
+    "samples"
+  ],
+  "targets": [
+    "volt_mean",
+    "max_single_volt_mean",
+    "min_single_volt_mean",
+    "max_temp_mean",
+    "min_temp_mean"
+  ],
+  "vehicle_count": 100,
+  "positive_vehicles": 9,
+  "oof_auroc": 0.7588522588522588,
+  "oof_average_precision": 0.22812829696262982,
+  "folds": [
+    {
+      "fold": 1,
+      "auroc": 0.631578947368421,
+      "average_precision": 0.125
+    },
+    {
+      "fold": 2,
+      "auroc": 0.5833333333333333,
+      "average_precision": 0.3125
+    },
+    {
+      "fold": 3,
+      "auroc": 0.7222222222222222,
+      "average_precision": 0.22619047619047616
+    },
+    {
+      "fold": 4,
+      "auroc": 1.0,
+      "average_precision": 1.0
+    },
+    {
+      "fold": 5,
+      "auroc": 0.75,
+      "average_precision": 0.24285714285714285
+    }
+  ]
+}

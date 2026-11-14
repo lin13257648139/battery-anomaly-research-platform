@@ -1,0 +1,110 @@
+{
+  "protocol": "publisher fixed vehicle test split; stratified paired 2000-resample bootstrap",
+  "test_vehicles": 18,
+  "positive_vehicles": 7,
+  "models": {
+    "cell_voltage_spread": {
+      "auroc": {
+        "point": 0.8051948051948051,
+        "ci95": [
+          0.5194805194805194,
+          1.0
+        ]
+      },
+      "average_precision": {
+        "point": 0.8482142857142856,
+        "ci95": [
+          0.6471861471861472,
+          1.0
+        ]
+      }
+    },
+    "isolation_forest": {
+      "auroc": {
+        "point": 0.6298701298701298,
+        "ci95": [
+          0.35064935064935066,
+          0.8767857142857134
+        ]
+      },
+      "average_precision": {
+        "point": 0.4841269841269841,
+        "ci95": [
+          0.3524730725623583,
+          0.8194880119880119
+        ]
+      }
+    },
+    "temporal_autoencoder": {
+      "auroc": {
+        "point": 0.6753246753246753,
+        "ci95": [
+          0.4152597402597402,
+          0.9090909090909091
+        ]
+      },
+      "average_precision": {
+        "point": 0.608080808080808,
+        "ci95": [
+          0.3989112276612277,
+          0.8868274582560296
+        ]
+      }
+    }
+  },
+  "difference_vs_physical": {
+    "isolation_forest": {
+      "auroc": {
+        "point": -0.17532467532467533,
+        "ci95": [
+          -0.4285714285714286,
+          0.038961038961038974
+        ]
+      },
+      "average_precision": {
+        "point": -0.3640873015873015,
+        "ci95": [
+          -0.5184738971346113,
+          -0.05384778911564626
+        ]
+      }
+    },
+    "temporal_autoencoder": {
+      "auroc": {
+        "point": -0.1298701298701298,
+        "ci95": [
+          -0.37662337662337664,
+          0.07792207792207806
+        ]
+      },
+      "average_precision": {
+        "point": -0.2401334776334776,
+        "ci95": [
+          -0.43898853772278135,
+          0.004199862637362552
+        ]
+      }
+    }
+  },
+  "sensitivity_min_20_snippets": {
+    "test_vehicles": 17,
+    "positive_vehicles": 7,
+    "excluded_vehicles": [
+      250
+    ],
+    "metrics": {
+      "cell_voltage_spread": {
+        "auroc": 0.8,
+        "average_precision": 0.8523809523809522
+      },
+      "isolation_forest": {
+        "auroc": 0.6,
+        "average_precision": 0.4873949579831932
+      },
+      "temporal_autoencoder": {
+        "auroc": 0.6571428571428571,
+        "average_precision": 0.6135753135753135
+      }
+    }
+  }
+}

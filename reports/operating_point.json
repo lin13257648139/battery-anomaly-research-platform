@@ -1,0 +1,12 @@
+{
+  "protocol": "terminal vehicle-level screening, exploratory after initial test review",
+  "calibration": "95th percentile of normal training-vehicle top-5% snippet scores",
+  "train_normal_vehicles": 22,
+  "threshold": 0.07444010416666674,
+  "test_vehicles": 18,
+  "true_positive": 5,
+  "false_positive": 1,
+  "false_negative": 2,
+  "true_negative": 10,
+  "limitation": "Requires all available snippets per vehicle; not a validated online alert rule."
+}

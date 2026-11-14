@@ -1,0 +1,16 @@
+{
+  "source_split": "publisher-defined vehicle train/test",
+  "train_vehicles": 31,
+  "test_vehicles": 18,
+  "test_positive_vehicles": 7,
+  "metrics": {
+    "iforest_percentile": {
+      "auroc": 0.6298701298701298,
+      "average_precision": 0.4841269841269841
+    },
+    "voltage_spread": {
+      "auroc": 0.8051948051948051,
+      "average_precision": 0.8482142857142856
+    }
+  }
+}

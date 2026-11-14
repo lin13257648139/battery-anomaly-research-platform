@@ -1,0 +1,8 @@
+{
+  "spark_version": "3.5.9",
+  "mode": "local[4]",
+  "input_rows": 24863360,
+  "output_snippets": 194245,
+  "invalid_length_groups": 0,
+  "elapsed_seconds": 97.69958933700036
+}

@@ -1,0 +1,11 @@
+{
+  "rows": 194245,
+  "columns": 50,
+  "metadata_mismatch_columns": [],
+  "numeric_mismatch_columns": [],
+  "maximum_absolute_error": 2.7000623958883807e-13,
+  "tolerance": {
+    "rtol": 1e-07,
+    "atol": 1e-09
+  }
+}

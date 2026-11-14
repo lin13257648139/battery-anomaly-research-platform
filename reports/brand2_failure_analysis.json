@@ -1,0 +1,29 @@
+{
+  "protocol": "post-hoc descriptive analysis of exploratory terminal screening",
+  "threshold_source": "normal training vehicles; threshold not retuned here",
+  "threshold": 0.07444010416666674,
+  "counts": {
+    "TP": 5,
+    "FP": 1,
+    "FN": 2,
+    "TN": 10
+  },
+  "failure_vehicles": {
+    "FP": [
+      233
+    ],
+    "FN": [
+      239,
+      240
+    ]
+  },
+  "profile_fields": [
+    "soc_mean",
+    "current_mean",
+    "max_temp_mean",
+    "high_score_soc_mean",
+    "high_score_current_mean",
+    "high_score_max_temp_mean"
+  ],
+  "limitation": "Descriptive test-set inspection only; no causal or generalization claim."
+}

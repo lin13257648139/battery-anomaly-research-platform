@@ -1,0 +1,28 @@
+{
+  "method": "stratified bootstrap over out-of-fold vehicle scores",
+  "resamples": 2000,
+  "normal_vehicles": 91,
+  "abnormal_vehicles": 9,
+  "metrics": {
+    "iforest_percentile": {
+      "auroc_95pct_interval": [
+        0.7441849816849817,
+        0.9145299145299145
+      ],
+      "average_precision_95pct_interval": [
+        0.1822997063975919,
+        0.5082535878839218
+      ]
+    },
+    "voltage_spread": {
+      "auroc_95pct_interval": [
+        0.5261904761904762,
+        0.9096459096459095
+      ],
+      "average_precision_95pct_interval": [
+        0.14552236698393142,
+        0.6315992912316437
+      ]
+    }
+  }
+}

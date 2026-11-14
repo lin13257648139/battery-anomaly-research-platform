@@ -1,0 +1,31 @@
+{
+  "protocol": "exploratory, specified after inspecting earlier fixed-test results; independent validation required",
+  "training": "normal training vehicles only; 250 snippets maximum per vehicle",
+  "normal_training_vehicles": 22,
+  "test_vehicles": 18,
+  "inputs": [
+    "soc_mean",
+    "soc_std",
+    "soc_delta",
+    "current_mean",
+    "current_std",
+    "current_delta",
+    "max_temp_mean",
+    "max_temp_std",
+    "max_temp_delta",
+    "min_temp_mean",
+    "min_temp_std",
+    "min_temp_delta"
+  ],
+  "target": "cell_volt_spread_max",
+  "normal_residual_scale": 0.0074848853799267395,
+  "conditioned": {
+    "auroc": 0.7272727272727273,
+    "average_precision": 0.8234126984126984
+  },
+  "physical_same_test": {
+    "auroc": 0.8051948051948051,
+    "average_precision": 0.8482142857142856
+  },
+  "limitation": "Test labels only used for final evaluation; this is not a validated improvement or online alert rule."
+}

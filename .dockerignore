@@ -1,0 +1,17 @@
+GIS
+converted
+converted_figshare
+external_data
+features
+features_spark
+models
+frontend/node_modules
+frontend/dist
+旧的
+reports
+test_data
+*.pptx
+*.docx
+*.csv
+__pycache__
+.git

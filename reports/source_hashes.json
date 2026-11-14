@@ -1,0 +1,632 @@
+{
+  "algorithm": "SHA-256",
+  "file_count": 125,
+  "total_bytes": 1152255832,
+  "files": [
+    {
+      "path": "GIS/GIS/0/vin_1.pkl",
+      "bytes": 289828,
+      "sha256": "65f2a59a66bab8b32e69eed5793356c074c4875c8f6f575d630da0b55404dcf3"
+    },
+    {
+      "path": "GIS/GIS/0/vin_2.pkl",
+      "bytes": 3721376,
+      "sha256": "75302a35bfbad963a9e8f06087f1dd28caa1c958e396664e7e83e63d22f28c90"
+    },
+    {
+      "path": "GIS/GIS/0/vin_3.pkl",
+      "bytes": 3762720,
+      "sha256": "9ec9a2d65f89b32c36c7d7aaccc3b1c35c9b549f6e1ecf7207ce6999defd422e"
+    },
+    {
+      "path": "GIS/GIS/1/vin_1.pkl",
+      "bytes": 331548,
+      "sha256": "cb8543343f46f8216dbf6155a487b77f9bcdc4c97dae268d35e6db1d80cfad1c"
+    },
+    {
+      "path": "GIS/GIS/1/vin_2.pkl",
+      "bytes": 4257776,
+      "sha256": "6c59a6bf947528dc8718b2dd630fa36b9c79a957ea3736e8f9118265dc94acc8"
+    },
+    {
+      "path": "GIS/GIS/1/vin_3.pkl",
+      "bytes": 4305080,
+      "sha256": "f686c4f5a8a4709fce680a68e9ee1ff91451c10f670ab8839f098871b04b0b7c"
+    },
+    {
+      "path": "GIS/GIS/10/vin_1.pkl",
+      "bytes": 387380,
+      "sha256": "d66b4fae8db61eb96d0265d09701150c3698f6dbe9a5085850b286b586fa0668"
+    },
+    {
+      "path": "GIS/GIS/10/vin_2.pkl",
+      "bytes": 4975616,
+      "sha256": "6cc023e2d763ab71b88e4c2b3e5bb2f9318730582fadbb36ecdf77c3030c647b"
+    },
+    {
+      "path": "GIS/GIS/10/vin_3.pkl",
+      "bytes": 5030896,
+      "sha256": "6691faf0fe1d59bd5af29ca271af2c2a59c8c1919785a52923bf459c9ec7928b"
+    },
+    {
+      "path": "GIS/GIS/11/vin_1.pkl",
+      "bytes": 100380,
+      "sha256": "4d4c65a3b43b6cae9f6b9c94c97ab1160513f33a054d1f2772071f81a8373247"
+    },
+    {
+      "path": "GIS/GIS/11/vin_2.pkl",
+      "bytes": 1285616,
+      "sha256": "b0bfe9d2fad97052da5bda5c5e8519ec0daf38330f9aa69ff7a8e1fb90b5f556"
+    },
+    {
+      "path": "GIS/GIS/11/vin_3.pkl",
+      "bytes": 1299896,
+      "sha256": "58c188e5e836c61e8f575543e14311f01135ad5bfbf390c6f47ea7ea30be0ae2"
+    },
+    {
+      "path": "GIS/GIS/12/vin_1.pkl",
+      "bytes": 494732,
+      "sha256": "6d815012a481822c1c21bd023930f0fd154f05dd09bc1362a52f6cd7e8f2d53f"
+    },
+    {
+      "path": "GIS/GIS/12/vin_2.pkl",
+      "bytes": 6355856,
+      "sha256": "468a3624bf803950c8ca17222c0efe90ac154c1099282a752bce05eb0c5fc07a"
+    },
+    {
+      "path": "GIS/GIS/12/vin_3.pkl",
+      "bytes": 6426472,
+      "sha256": "d6b3a61fcc8b04a65caf836fab186063ba70ff1c17be889f18867ceed67f7f04"
+    },
+    {
+      "path": "GIS/GIS/13/vin_1.pkl",
+      "bytes": 526152,
+      "sha256": "b5a8bd5349ddaca35b60bf9fccf87c37e818d44d3ae66232e0f78eb385da3ac3"
+    },
+    {
+      "path": "GIS/GIS/13/vin_2.pkl",
+      "bytes": 6759776,
+      "sha256": "763b2cafbff110f0ac68a524c9d9013780e08438db1cb2a551ea349b037cac2f"
+    },
+    {
+      "path": "GIS/GIS/13/vin_3.pkl",
+      "bytes": 6834880,
+      "sha256": "20ed826e6db3ef15011636fb7a68559c0e4d6e24edfdb470ed1f181e1a2671b6"
+    },
+    {
+      "path": "GIS/GIS/14/vin_1.pkl",
+      "bytes": 138404,
+      "sha256": "a41ca72382378e73d345c1adf6d715104b52ff750dd530756f4943d28cfac1a0"
+    },
+    {
+      "path": "GIS/GIS/14/vin_2.pkl",
+      "bytes": 1774496,
+      "sha256": "41b75ec33495a8e4150979cf28e5b59c62ee7b7c8485071e2e0ecb1e14ff0af6"
+    },
+    {
+      "path": "GIS/GIS/14/vin_3.pkl",
+      "bytes": 1794208,
+      "sha256": "70dcb6da50dfe757a55b5d43ffdb65923a30991863004dd39fe34bc54d958825"
+    },
+    {
+      "path": "GIS/GIS/15/vin_1.pkl",
+      "bytes": 265916,
+      "sha256": "d77f8666caeba8dce2f2c36a920e6019b7874a745680a475e90395ae29dd4fde"
+    },
+    {
+      "path": "GIS/GIS/15/vin_2.pkl",
+      "bytes": 3413936,
+      "sha256": "705470241d4c98a63f52a1b92695af33e6048e00810bdb47d240583fec9aeac2"
+    },
+    {
+      "path": "GIS/GIS/15/vin_3.pkl",
+      "bytes": 3451864,
+      "sha256": "063d3b58bf802c9aa23a6c53b624da6cb3859f6f39fcb2dc6612a5a16661bbac"
+    },
+    {
+      "path": "GIS/GIS/16/vin_1.pkl",
+      "bytes": 39891,
+      "sha256": "70d59df6ce990dbac896c19fecd239b878ed0c8467092f4b8fdaf01f1df99816"
+    },
+    {
+      "path": "GIS/GIS/16/vin_2.pkl",
+      "bytes": 508014,
+      "sha256": "f9653fe5b5c730ab2d7da4790d1e9848f5213056bc9acc7f59c6d6fd38916a69"
+    },
+    {
+      "path": "GIS/GIS/16/vin_3.pkl",
+      "bytes": 513654,
+      "sha256": "f98321f1becec7df51f282d734885c49b57dd141defe18583f880a18b5758fea"
+    },
+    {
+      "path": "GIS/GIS/17/vin_1.pkl",
+      "bytes": 302540,
+      "sha256": "071634e17f18adbc6101cdc70f2aba81a34c332b0491d39d7e3fea38921edd85"
+    },
+    {
+      "path": "GIS/GIS/17/vin_2.pkl",
+      "bytes": 3884816,
+      "sha256": "63630c3931e1f46301df8342c4fce30dafc2de1b31f0c75ecb89e1e4baff34bd"
+    },
+    {
+      "path": "GIS/GIS/17/vin_3.pkl",
+      "bytes": 3927976,
+      "sha256": "f5b648f80341f366e22ebf81f9cfa25d3d2b4517e43253bd8eb0e090610e8e51"
+    },
+    {
+      "path": "GIS/GIS/18/vin_1.pkl",
+      "bytes": 340788,
+      "sha256": "216a7b49919f32c66a4323c2e9ecbaec47e80d0a0d55ef87e96c7416aafec91d"
+    },
+    {
+      "path": "GIS/GIS/18/vin_2.pkl",
+      "bytes": 4376576,
+      "sha256": "bde5048933f2a2a1c659f4437102e57cfbc030403d2d4a81e3371f98874777ae"
+    },
+    {
+      "path": "GIS/GIS/18/vin_3.pkl",
+      "bytes": 4425200,
+      "sha256": "685a61582720c5cd69e2ae47be0d15ab7e87e8af6f03834504fb1277b8db7400"
+    },
+    {
+      "path": "GIS/GIS/19/vin_1.pkl",
+      "bytes": 1065152,
+      "sha256": "864b44894f2a3b4d6624310fa4eafdedd417fca654ca9ad146672dac6fc21dcd"
+    },
+    {
+      "path": "GIS/GIS/19/vin_2.pkl",
+      "bytes": 13689776,
+      "sha256": "8ec70d372d2073c12209357440ca1ef427f8112c1b5c1da39c8d697ed8c365fa"
+    },
+    {
+      "path": "GIS/GIS/19/vin_3.pkl",
+      "bytes": 13841880,
+      "sha256": "63f6aee414c957a3f4aeb902a4b01767d687b7df565fe8fb3d7541a8afecd606"
+    },
+    {
+      "path": "GIS/GIS/2/vin_1.pkl",
+      "bytes": 406700,
+      "sha256": "c752c8e1d42661992ec33aa7780251ca6c5056755b69066f4249342f28a99633"
+    },
+    {
+      "path": "GIS/GIS/2/vin_2.pkl",
+      "bytes": 5224016,
+      "sha256": "3b38b2f2f9916b5a59f8293c58f51ba4dfe40b2d290cd9963f6f0d4a3380ce6a"
+    },
+    {
+      "path": "GIS/GIS/2/vin_3.pkl",
+      "bytes": 5282056,
+      "sha256": "e70ceea1421c0464b44862287698ded96c46da0d2558ba7919bf679ab4c4d7f6"
+    },
+    {
+      "path": "GIS/GIS/20/vin_1.pkl",
+      "bytes": 1680704,
+      "sha256": "00235f7dbb9083c0df717298c9e1cc8bcd3e40e70934e7aceae03afd982ddebb"
+    },
+    {
+      "path": "GIS/GIS/20/vin_2.pkl",
+      "bytes": 21604016,
+      "sha256": "3f1e316cb291d4b02c0d90d3c44e0ce61d621299659d7510cfa510f10fc6ab65"
+    },
+    {
+      "path": "GIS/GIS/20/vin_3.pkl",
+      "bytes": 21844056,
+      "sha256": "a1b7113455b5a21e46d2cd3f8ce34cae591f3d7df316c194a156c5b0c5d16d6f"
+    },
+    {
+      "path": "GIS/GIS/21/vin_1.pkl",
+      "bytes": 1082288,
+      "sha256": "4ac31e2a87439eb18eaa40f2176e3db7c802dae5a22704b73a767099e2740e9c"
+    },
+    {
+      "path": "GIS/GIS/21/vin_2.pkl",
+      "bytes": 13910096,
+      "sha256": "14ddb3284fa0179d0dab164637c4559aa5719cc5238dcf455c11fe66ff81dd01"
+    },
+    {
+      "path": "GIS/GIS/21/vin_3.pkl",
+      "bytes": 14064648,
+      "sha256": "1ddb386ebbe182cf7a54bed59444e94b33ed431df7a4d3a2454e4029b0bbbbc9"
+    },
+    {
+      "path": "GIS/GIS/22/vin_1.pkl",
+      "bytes": 983000,
+      "sha256": "ca5bc0281abede0de486536cc47712a5f56e735589115b1097504d01dc959f1d"
+    },
+    {
+      "path": "GIS/GIS/22/vin_2.pkl",
+      "bytes": 12633536,
+      "sha256": "a3670c4ef1e069f865ab118f18e5e1b268be8e4c2b4188e1be4869e9e337f8ca"
+    },
+    {
+      "path": "GIS/GIS/22/vin_3.pkl",
+      "bytes": 12773904,
+      "sha256": "5526fe3088411851030c35e7acfd110772963e653399830ad3a13f56642157f2"
+    },
+    {
+      "path": "GIS/GIS/23/vin_1.pkl",
+      "bytes": 283388,
+      "sha256": "6e4130d98ef9f0bb838387418a751f29c2e6501a91c631fb8801b2ed151c345a"
+    },
+    {
+      "path": "GIS/GIS/23/vin_2.pkl",
+      "bytes": 3638576,
+      "sha256": "ebba7010d6f5c49708421881a475b9b57fcc3e76ee7fcd3996d5f0a15f27fc35"
+    },
+    {
+      "path": "GIS/GIS/23/vin_3.pkl",
+      "bytes": 3679000,
+      "sha256": "14f8ff06cb8e42755b87df36cd44e658d09be1486eb718c91555478755cbfc87"
+    },
+    {
+      "path": "GIS/GIS/24/vin_1.pkl",
+      "bytes": 378588,
+      "sha256": "935adf48e4f5e238b86a204afceca08658eb17ff775d918945e2115318faff0f"
+    },
+    {
+      "path": "GIS/GIS/24/vin_2.pkl",
+      "bytes": 4862576,
+      "sha256": "78d70cc771b3d7ee4c4aec054003ba5a4310f740b3a65bd11cf4305392221b8b"
+    },
+    {
+      "path": "GIS/GIS/24/vin_3.pkl",
+      "bytes": 4916600,
+      "sha256": "cc9b36b3d0849febaa9ca6078a1ca19a12ec273ea91e15e55cbc6597e95c0da4"
+    },
+    {
+      "path": "GIS/GIS/25/vin_1.pkl",
+      "bytes": 474012,
+      "sha256": "0cb22783d50c778367eed4e94a189a9c6166c90d4a8ed1c39ceddd6c5b987401"
+    },
+    {
+      "path": "GIS/GIS/25/vin_2.pkl",
+      "bytes": 6089456,
+      "sha256": "c23e070595d4eceed617772ca1edf1de8004c56a8e2efe7f4aab9ae5c3f17083"
+    },
+    {
+      "path": "GIS/GIS/25/vin_3.pkl",
+      "bytes": 6157112,
+      "sha256": "b03d22005b2bc7632eee43c78a2bd870a78dfcad9fdcdd63512f52a182292004"
+    },
+    {
+      "path": "GIS/GIS/26/vin_1.pkl",
+      "bytes": 377916,
+      "sha256": "98ef3f22b327749df089e0a4d2270339968ed5b5b355b7ddc4c0a447e2ad6968"
+    },
+    {
+      "path": "GIS/GIS/26/vin_2.pkl",
+      "bytes": 4853936,
+      "sha256": "bbfc6fbf9ffefb1de0882f994f7fa4d91f42facad77292ff8e85c050aded1655"
+    },
+    {
+      "path": "GIS/GIS/26/vin_3.pkl",
+      "bytes": 4907864,
+      "sha256": "bc51ec9327cd272754896b474b7ea8e616460c3faa3d45c242e3d0789317b7e0"
+    },
+    {
+      "path": "GIS/GIS/27/vin_1.pkl",
+      "bytes": 342244,
+      "sha256": "06dcf5754960c7d908c9245ed8082055aa0a4c43cf512d05dbac21fb391811d2"
+    },
+    {
+      "path": "GIS/GIS/27/vin_2.pkl",
+      "bytes": 4395296,
+      "sha256": "60e2f7660bd774a1e4c7b8d52fa4faf2409ddfaaf547fae0d037c03c553bc1d3"
+    },
+    {
+      "path": "GIS/GIS/27/vin_3.pkl",
+      "bytes": 4444128,
+      "sha256": "8c96396cd619d0c70d15674c5a69b6cc705f13ecd24d0dc8e4ffc704bc573af1"
+    },
+    {
+      "path": "GIS/GIS/28/vin_1.pkl",
+      "bytes": 114604,
+      "sha256": "33020ec55f36929f5598b38256e00f8dc28a0592fd0e2ad7290a8721e804c2a0"
+    },
+    {
+      "path": "GIS/GIS/28/vin_2.pkl",
+      "bytes": 1468496,
+      "sha256": "6527bd320f34ab27471ea8fbe18479a16ccb16dabe48a5d8d1255c35ed78751a"
+    },
+    {
+      "path": "GIS/GIS/28/vin_3.pkl",
+      "bytes": 1484808,
+      "sha256": "f0a73060a4719fd19f6bc38677fe93b6867be4b1842caa7844f5e1134adf0a9b"
+    },
+    {
+      "path": "GIS/GIS/29/vin_1.pkl",
+      "bytes": 2530840,
+      "sha256": "8ed05c9e7ad64632d339f8b28388c4badad8c1097791c481e4806d59e063e4cd"
+    },
+    {
+      "path": "GIS/GIS/29/vin_2.pkl",
+      "bytes": 32534336,
+      "sha256": "b370d68a6b04e1ce688d6e4f62db4e1dac60ae999467e88dfbf5985503533bcc"
+    },
+    {
+      "path": "GIS/GIS/29/vin_3.pkl",
+      "bytes": 32895824,
+      "sha256": "3191fc0cd2a77ea4ad025db8dd116fbc1395838775261da9960760e63acb3d63"
+    },
+    {
+      "path": "GIS/GIS/3/vin_1.pkl",
+      "bytes": 378812,
+      "sha256": "a34d1e1310ad7cbaadcb340ac776510990e99d47ee6f0981519fbde9aac4d8ed"
+    },
+    {
+      "path": "GIS/GIS/3/vin_2.pkl",
+      "bytes": 4865456,
+      "sha256": "0fb0545b8660d5c7a0a76bb497096f355fa36a5feb28ac07736c8c23a6c745c6"
+    },
+    {
+      "path": "GIS/GIS/3/vin_3.pkl",
+      "bytes": 4919512,
+      "sha256": "f9121a0bbea531678ec1fb81cb5bcc576311d68cdf6da10930d09346653a5fbe"
+    },
+    {
+      "path": "GIS/GIS/30/vin_1.pkl",
+      "bytes": 1917584,
+      "sha256": "3d36931dc94c562199c21b9c351bfb57e8ad5fde4c842a60c58d1b6e2c2b01b6"
+    },
+    {
+      "path": "GIS/GIS/30/vin_2.pkl",
+      "bytes": 24649616,
+      "sha256": "12b40715880eb56dbdb8dc4ad79f5ec6880525896f6672ada5b6224286a88bce"
+    },
+    {
+      "path": "GIS/GIS/30/vin_3.pkl",
+      "bytes": 24923496,
+      "sha256": "c0f8961d8ba72322262488d4df6c70f40bfbe49f212b3b72a93889bf1fd9cd20"
+    },
+    {
+      "path": "GIS/GIS/31/vin_1.pkl",
+      "bytes": 838016,
+      "sha256": "549c1bc213fccd0c840f3dea2d85c2f11e1fe78149620ae7db727e57b1eee2b3"
+    },
+    {
+      "path": "GIS/GIS/31/vin_2.pkl",
+      "bytes": 10769456,
+      "sha256": "24467c5b8b302d02d448ce7bd6f706366ee33f9ae219f0fb7a6674615fc8082a"
+    },
+    {
+      "path": "GIS/GIS/31/vin_3.pkl",
+      "bytes": 10889112,
+      "sha256": "fbc5306c61673ec427596c95fdc2a864f40f48988c567e486f6fc6a08b6101fe"
+    },
+    {
+      "path": "GIS/GIS/32/vin_1.pkl",
+      "bytes": 491372,
+      "sha256": "13bc1470e235ca8d5e85a1f847bd340153067d268a420ced34d3b93e6c7d0e0d"
+    },
+    {
+      "path": "GIS/GIS/32/vin_2.pkl",
+      "bytes": 6312656,
+      "sha256": "b8c171af7e52ed8c678a47b7ae6d72f31f71aafea2fc6861b9f42d4309f53dd1"
+    },
+    {
+      "path": "GIS/GIS/32/vin_3.pkl",
+      "bytes": 6382792,
+      "sha256": "d56a026648671fcca3c243b3b2e574535375f5a8a357cb6f65956f9d23005985"
+    },
+    {
+      "path": "GIS/GIS/33/vin_1.pkl",
+      "bytes": 365540,
+      "sha256": "f9b87934258c361791460e34ac3c9f92ee5363df44a73f268de08a4fe335622a"
+    },
+    {
+      "path": "GIS/GIS/33/vin_2.pkl",
+      "bytes": 4694816,
+      "sha256": "41b8552b1fa0c152d553e0615abede556cb2b8a05b71957e8a4b1ad362b7610e"
+    },
+    {
+      "path": "GIS/GIS/33/vin_3.pkl",
+      "bytes": 4746976,
+      "sha256": "4a925d86fbdf30d4b98b483238f0870709c3b06d8a73ddc83c3e77f117cc67db"
+    },
+    {
+      "path": "GIS/GIS/34/vin_1.pkl",
+      "bytes": 351596,
+      "sha256": "04f3f2f2e6aa23cc8a6fe6813becd5d9a026e332e0152476379b272fd5a36f98"
+    },
+    {
+      "path": "GIS/GIS/34/vin_2.pkl",
+      "bytes": 4515536,
+      "sha256": "6ada2893f2cd37cb67c2621fc4b24fa2425df2bf496e70aaf936aca994b0c384"
+    },
+    {
+      "path": "GIS/GIS/34/vin_3.pkl",
+      "bytes": 4565704,
+      "sha256": "bb06cdf4296729667797eac4e5cd5071fa5f6f70c105957f2a916b45ffa47ca9"
+    },
+    {
+      "path": "GIS/GIS/35/vin_1.pkl",
+      "bytes": 295092,
+      "sha256": "308cd6986dc056089d37e7253c47e3c3278384c8a106db91279699b222941d58"
+    },
+    {
+      "path": "GIS/GIS/35/vin_2.pkl",
+      "bytes": 3789056,
+      "sha256": "90822fb1974511d9fce87f79621e6dd85231cccc9a8362894119712c0446a343"
+    },
+    {
+      "path": "GIS/GIS/35/vin_3.pkl",
+      "bytes": 3831152,
+      "sha256": "82e4c8cd96f120db05a29d11f7b150bf2e7f06794a8b94036f78e23bcd05d476"
+    },
+    {
+      "path": "GIS/GIS/36/vin_1.pkl",
+      "bytes": 2540416,
+      "sha256": "f6219e715f7556f72eac6254f37d29df8351907dce7151463aba9936b2f02298"
+    },
+    {
+      "path": "GIS/GIS/36/vin_2.pkl",
+      "bytes": 32657456,
+      "sha256": "90b0c20a0277ab753b2deaf173fbaf39e207a4b0bdc998420c6c9f84e2b28ad5"
+    },
+    {
+      "path": "GIS/GIS/36/vin_3.pkl",
+      "bytes": 33020312,
+      "sha256": "1d3b66d94acf2cbafda98555bcd36704d367d4b2c3061a1510fefc4956ce9af5"
+    },
+    {
+      "path": "GIS/GIS/37/vin_1.pkl",
+      "bytes": 1599784,
+      "sha256": "4ed6814282abfb2c06ad52e4bdd7f4581114f0a50c4cdb46f6564203bd466c18"
+    },
+    {
+      "path": "GIS/GIS/37/vin_2.pkl",
+      "bytes": 20563616,
+      "sha256": "f3d5775ec2809daa4a4208b06e66d5610bd7035964f807cebc96ac3c39a7486a"
+    },
+    {
+      "path": "GIS/GIS/37/vin_3.pkl",
+      "bytes": 20792096,
+      "sha256": "f5e256fdda56e78726a3cdafe46941ffc2ff2810ec40c03016147436ada052f7"
+    },
+    {
+      "path": "GIS/GIS/38/vin_1.pkl",
+      "bytes": 1882304,
+      "sha256": "d1fe708d21fcf3cc75c2eb343cea09c1b63448745e9f19bf02c3d07ac433991b"
+    },
+    {
+      "path": "GIS/GIS/38/vin_2.pkl",
+      "bytes": 24196016,
+      "sha256": "f36b56fb39389b26335576706a5f6f479b6f9fb1b1b9596d6f851c87ff60b977"
+    },
+    {
+      "path": "GIS/GIS/38/vin_3.pkl",
+      "bytes": 24464856,
+      "sha256": "13c231327644768cb68b4851ba2f63c6c9fc66881168b6622ec6cd9429eb69be"
+    },
+    {
+      "path": "GIS/GIS/39/vin_1.pkl",
+      "bytes": 1822328,
+      "sha256": "47a2922b5eae903395b51e023499522dea9d06fbb86746319aadc29f5727f80d"
+    },
+    {
+      "path": "GIS/GIS/39/vin_2.pkl",
+      "bytes": 23424896,
+      "sha256": "8623dd5d136eea598197df71135289ea0e8ac7e8da116617a8c43be8c1b4e16c"
+    },
+    {
+      "path": "GIS/GIS/39/vin_3.pkl",
+      "bytes": 23685168,
+      "sha256": "70d5b65ca9d660b01d91b987cc058cb735e2213ac92f0d9df47c0c96632ec6ff"
+    },
+    {
+      "path": "GIS/GIS/4/vin_1.pkl",
+      "bytes": 230524,
+      "sha256": "ffcd56654b693e24868fdbc1a6d54e745d7f556d9ffd79c7f4dbf085a7904773"
+    },
+    {
+      "path": "GIS/GIS/4/vin_2.pkl",
+      "bytes": 2958896,
+      "sha256": "13f1c5283518174fdbb02a925145eb9983c4c1da32a81c5e18c67be5fde276a7"
+    },
+    {
+      "path": "GIS/GIS/4/vin_3.pkl",
+      "bytes": 2991768,
+      "sha256": "7ed9e4e61cdee2016ad9266407dcea0a174955d1f675bb515d9b88a5ea8783f0"
+    },
+    {
+      "path": "GIS/GIS/40/vin_1.pkl",
+      "bytes": 647504,
+      "sha256": "5763599e3c21a8e3c6281901a22467b46a59d48128059ea5eca3bcd95f30decc"
+    },
+    {
+      "path": "GIS/GIS/40/vin_2.pkl",
+      "bytes": 8320016,
+      "sha256": "c0383f3f2727361a39786bd4bf3c691dc640e165a019e2f122409dbf1f2fd134"
+    },
+    {
+      "path": "GIS/GIS/40/vin_3.pkl",
+      "bytes": 8412456,
+      "sha256": "fa304ff1cf5065e90e6da9d61e490fe9eda5ca3cc2bde3c2d12ed5047eadf1b9"
+    },
+    {
+      "path": "GIS/GIS/5/vin_1.pkl",
+      "bytes": 1396840,
+      "sha256": "f6962279a11732c067e30e6378e07f5618590fff7839be90d60d5ce051b77c9f"
+    },
+    {
+      "path": "GIS/GIS/5/vin_2.pkl",
+      "bytes": 17954336,
+      "sha256": "8f484629788bf17dd66c0b5db76bac2c984f87998b5c5581fcc89c4b493be7b4"
+    },
+    {
+      "path": "GIS/GIS/5/vin_3.pkl",
+      "bytes": 18153824,
+      "sha256": "e775898931cacfdf1b29b6a3109cd257d4f8b653be41d4dd686b11c54b5653c4"
+    },
+    {
+      "path": "GIS/GIS/6/vin_1.pkl",
+      "bytes": 1409552,
+      "sha256": "6222ba92a0f3730ef25cfc4a6b0d4460973d05b5468301b2e89e8c2556ea0643"
+    },
+    {
+      "path": "GIS/GIS/6/vin_2.pkl",
+      "bytes": 18117776,
+      "sha256": "41931337f9c6220420e8422212c0c301cf5e01aeb589c2d7e52684adeace5942"
+    },
+    {
+      "path": "GIS/GIS/6/vin_3.pkl",
+      "bytes": 18319080,
+      "sha256": "ba7d5673283221b6ccf073b0210e639b7bd6b2e578b38a6de8c20f0bc0aede75"
+    },
+    {
+      "path": "GIS/GIS/7/vin_1.pkl",
+      "bytes": 1613840,
+      "sha256": "0b161e99a6e0fe5b6e7a0cb6d04dcd21dca384100c4748c0d5da267a88c74acc"
+    },
+    {
+      "path": "GIS/GIS/7/vin_2.pkl",
+      "bytes": 20744336,
+      "sha256": "1e8aa16b617b4b27456e045b7d5aac4176f22ae0c84c70c67ad2e749d4d57360"
+    },
+    {
+      "path": "GIS/GIS/7/vin_3.pkl",
+      "bytes": 20974824,
+      "sha256": "78496a6f31611e492378b40611980af6c22c78f50f0f4533f9c16ebe2a07dbbe"
+    },
+    {
+      "path": "GIS/GIS/8/vin_1.pkl",
+      "bytes": 1034072,
+      "sha256": "9653fb79abafa18c37039264ef64aecc16c9fc5f028e7481c54429a33d9f980f"
+    },
+    {
+      "path": "GIS/GIS/8/vin_2.pkl",
+      "bytes": 13290176,
+      "sha256": "43db74174b48fa1ed6a73d0625ee83b12e11a1646c20971365d77129b4afde40"
+    },
+    {
+      "path": "GIS/GIS/8/vin_3.pkl",
+      "bytes": 13437840,
+      "sha256": "32d0fc7c08c2a33d9cd5f4993451e9e70c953f9868b41a7ab806373bdb33888b"
+    },
+    {
+      "path": "GIS/GIS/9/vin_1.pkl",
+      "bytes": 279468,
+      "sha256": "f93dc58a4dc0488701ef2ebbe5432ab3079fb765807039ba605c9846dea77ac2"
+    },
+    {
+      "path": "GIS/GIS/9/vin_2.pkl",
+      "bytes": 3588176,
+      "sha256": "6a1e6b8504c4e4714eb9e02d6cccaff351e837e342adfe778d49aa46acaf473e"
+    },
+    {
+      "path": "GIS/GIS/9/vin_3.pkl",
+      "bytes": 3628040,
+      "sha256": "8d6da4ee857a2c54d23cf58364d42dbdcad6931ba37b44013bdd128436ace6e8"
+    },
+    {
+      "path": "external_data/figshare_ev/battery_brand2.tar.gz",
+      "bytes": 236920600,
+      "sha256": "9fa79298743de34fb84f75286159ce3678717877034fea05c0306a13979bfb47"
+    },
+    {
+      "path": "external_data/figshare_ev/battery_brand3.tar.gz",
+      "bytes": 55469605,
+      "sha256": "afb5fb2a762cceb5627c112ed2d8d981590274e7f44239321d64384e317b4fd0"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "unique_events_expected": 74862,
+  "unique_events_processed": 74862,
+  "injected_duplicates": 749,
+  "pending_events": 0,
+  "test_vehicles": 18,
+  "alert_events": 811,
+  "alerted_positive_vehicles": 5,
+  "alerted_normal_vehicles": 3,
+  "positive_vehicles": 7,
+  "normal_vehicles": 11,
+  "alerted_cars": [
+    233,
+    236,
+    237,
+    241,
+    243,
+    244,
+    247,
+    248
+  ],
+  "caveat": "Synthetic ordering; no real-world detection latency or lead time."
+}

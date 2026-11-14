@@ -1,0 +1,94 @@
+{
+  "source_split": "publisher-defined brand2 vehicle train/test",
+  "normal_train_vehicles": 22,
+  "fit_vehicles": 17,
+  "validation_vehicles": 5,
+  "test_vehicles": 18,
+  "test_positive_vehicles": 7,
+  "fit_snippets": 4960,
+  "validation_snippets": 1592,
+  "refit_snippets": 6552,
+  "selected_epochs": 15,
+  "best_validation_mse": 0.023735105991363525,
+  "epochs": [
+    {
+      "epoch": 1,
+      "train_mse": 0.6767970789701511,
+      "validation_mse": 0.3903060257434845
+    },
+    {
+      "epoch": 2,
+      "train_mse": 0.22240926497257674,
+      "validation_mse": 0.18092407286167145
+    },
+    {
+      "epoch": 3,
+      "train_mse": 0.10584828085624255,
+      "validation_mse": 0.1250850111246109
+    },
+    {
+      "epoch": 4,
+      "train_mse": 0.06895809534650582,
+      "validation_mse": 0.08173748105764389
+    },
+    {
+      "epoch": 5,
+      "train_mse": 0.04519493639087065,
+      "validation_mse": 0.06008133664727211
+    },
+    {
+      "epoch": 6,
+      "train_mse": 0.031658553112393774,
+      "validation_mse": 0.052102603018283844
+    },
+    {
+      "epoch": 7,
+      "train_mse": 0.023863026728996865,
+      "validation_mse": 0.041724491864442825
+    },
+    {
+      "epoch": 8,
+      "train_mse": 0.01978841084891405,
+      "validation_mse": 0.03797270357608795
+    },
+    {
+      "epoch": 9,
+      "train_mse": 0.017071043857588217,
+      "validation_mse": 0.03243783488869667
+    },
+    {
+      "epoch": 10,
+      "train_mse": 0.014695659494743897,
+      "validation_mse": 0.031461942940950394
+    },
+    {
+      "epoch": 11,
+      "train_mse": 0.013463450882297296,
+      "validation_mse": 0.027824971824884415
+    },
+    {
+      "epoch": 12,
+      "train_mse": 0.012550470084907154,
+      "validation_mse": 0.026090871542692184
+    },
+    {
+      "epoch": 13,
+      "train_mse": 0.01169462172457805,
+      "validation_mse": 0.026814062148332596
+    },
+    {
+      "epoch": 14,
+      "train_mse": 0.011560106267913794,
+      "validation_mse": 0.02519751340150833
+    },
+    {
+      "epoch": 15,
+      "train_mse": 0.011546388447571259,
+      "validation_mse": 0.023735105991363525
+    }
+  ],
+  "test_metrics": {
+    "auroc": 0.6753246753246753,
+    "average_precision": 0.608080808080808
+  }
+}
